@@ -1,0 +1,1 @@
+# CurrencyChecker_Android_Java_API
