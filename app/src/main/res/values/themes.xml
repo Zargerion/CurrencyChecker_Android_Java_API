@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CurrencyChecker" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/f_black</item>
+        <item name="colorPrimaryDark">@color/h_black</item>
+        <item name="colorAccent">@color/f_black</item>
+        <item name="android:navigationBarColor">@color/h_black</item>
+        <item name="android:windowBackground">@color/h_black</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.CurrencyChecker.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.CurrencyChecker.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.CurrencyChecker.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
