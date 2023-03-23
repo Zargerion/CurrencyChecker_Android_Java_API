@@ -7,7 +7,8 @@ So, now you need "git". If you haven't, google how to get (https://git-scm.com/b
 Make a derectory. In this directory using console write:
 
 ```git clone (https://github.com/Zargerion/CurrencyChecker_Android_Java_API.git)```
-<ins> \n Of course you can simply download it to your created directory using grafic interface GitHub.com as you wish. </ins>
+
+<ins> Of course you can simply download it to your created directory using grafic interface GitHub.com as you wish. </ins>
 
 Android Studio helps you... (https://developer.android.com/studio)
 
