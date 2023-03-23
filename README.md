@@ -1,4 +1,5 @@
 # CurrencyChecker Mobile App (Android Java API)
+XML as view is good. My first work with Java, Andriod that has complited near around 2 day, becouse legacy syntax like old C.
 
 ## To Build
 
